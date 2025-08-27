@@ -1,22 +1,28 @@
-# 📈 NVDA signalų analizė ir prognozė
+# 📈 NVDA Signal Analysis and Forecast
 
-Šiame projekte pateikiama:
+This project includes:
 
-- Istorinių kainų ir signalų vizualizacija (žali pirkimo taškai)
-- Paprasta pelningumo analizė laikant poziciją 5 dienas po signalo
-- 30 darbo dienų į priekį prognozė su ARIMA modeliu
+- Historical price chart with signal visualization (green = buy signal)
+- Basic profitability analysis assuming a 5-day holding period after each signal
+- 30-business-day forecast using an ARIMA model
 
-## 🚀 Atidaryti Google Colab
+---
+
+## 🚀 Open in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GiedriusDapsys/nvda-signals-project/blob/main/NVDA_signals_and_forecast_colab.ipynb)
 
-## 🛠️ Naudojimo instrukcija
+---
 
-1. Atsisiųsk visus failus.
-2. Įkelk į savo viešą GitHub repozitoriją (jei reikia – pakeisk naudotojo vardą savo).
-3. Paspausk **Open in Colab**.
+## 🛠 How to Use
 
-## 📂 Failai
+1. Download all files from this repository.
+2. Upload them into your own public GitHub repository (rename the username if needed).
+3. Click **"Open in Colab"** and run the notebook.
 
-- `NVDA_signals_and_forecast_colab.ipynb` – visas Colab projektas (duomenų analizė, grafikai, prognozė).
-- `NVDA_kainos_su_signalais.csv` – naudoti duomenys su signalais.
+---
+
+## 📁 Files
+
+- `NVDA_signals_and_forecast_colab.ipynb` – full Colab notebook (data analysis, charts, signal detection, forecast)
+- `NVDA_kainos_su_signalais.csv` – dataset containing NVDA prices and generated signals
