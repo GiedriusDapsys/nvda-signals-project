@@ -6,7 +6,7 @@
 - 30 darbo dienų į priekį prognozė su ARIMA modeliu
 
 ## Atidaryti Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TAVOGITREPO/NVDA_signals_and_forecast_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VARDAS/nvda-signals-project/blob/main/NVDA_signals_and_forecast_colab.ipynb)
 
 ## Naudojimo instrukcija
 1. Atsisiųsk visus failus.
